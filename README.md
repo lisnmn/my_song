@@ -472,7 +472,7 @@ simon牛批嗷
 
 
 
-#### **4.13. [[原]2019.12.8.1318 不可観測のラジウム特異点 ~ Radium Abyss - p [终][推奨]]**(https://github.com/lisnmn/my_song/blob/master/%E4%B8%8D%E5%8F%AF%E8%A6%B3%E6%B8%AC%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%A6%E3%83%A0%E7%89%B9%E7%95%B0%E7%82%B9%20~%20Radium%20Abyss%20-%20p.mp3)
+#### 4.13. [[原]2019.12.8.1318 不可観測のラジウム特異点 ~ Radium Abyss - p [终][推奨]](https://github.com/lisnmn/my_song/blob/master/%E4%B8%8D%E5%8F%AF%E8%A6%B3%E6%B8%AC%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%A6%E3%83%A0%E7%89%B9%E7%95%B0%E7%82%B9%20~%20Radium%20Abyss%20-%20p.mp3)
 
 对那一首转折曲目的钢琴部分做了部分提取的版本，故降级到推荐级别。
 
@@ -560,7 +560,33 @@ simon牛批嗷
 
 
 
-#### **5.11. [[原]2020.8.18.2050 fight against eternity [超·推奨]](https://github.com/lisnmn/my_song/blob/master/fight%20against%20eternity.mp3)**
+#### 5.11. [[原]2020.8.18.2050 fight against eternity [超·推奨]](https://github.com/lisnmn/my_song/blob/master/fight%20against%20eternity.mp3)
+
+第二个转折点曲目，一首非常有20年纸马新作BOSS风格的曲目。
+
+Accept our limits, in which we can face true infinity, and fight against eternity.
+接受自己的限制
+我们就能面对真正的永恒
+之后
+向永恒发起反抗！
+
+当时受到群友好评的作品，个人也是在这一次尝试后掌握了一部分金属乐的窍门，所以本曲目当之无愧是转折点二，非常值得一听的作品。
+
+
+
+#### 5.12. [[原]2020.9.27.2018 コウリュウ [终][超·推奨]](https://github.com/lisnmn/my_song/blob/master/%E3%82%B3%E3%82%A6%E3%83%AA%E3%83%A5%E3%82%A6.mp3)
+
+一首转折点二后的ABC段曲目，A段大跳音程的开头我甚至有好几个月没法接下去，只不过接到B段的事情也终于慢慢给摸出来了。稍微逊色于转折点二曲目，但也是超推荐（转折点二之后非常多曲目成为超推荐，我个人感觉得称为二星推荐是不是更好，毕竟个人前后水平变化太大了），值得一听。
+
+
+
+#### 5.13. [[改]2020.10.3.2055 キングスウォッチドッグ [超·推奨]](https://github.com/lisnmn/my_song/blob/master/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%89%E3%83%83%E3%82%B0.mp3)
+
+B站有本人发布的[前一个版本](https://www.bilibili.com/audio/au1871878?type=1)，其实开头的半音下行引入还挺带感的，不知道为啥我要改。是纸片马里奥折纸国王的6面BOSS曲改曲，但其实基本就是扒谱啦。二星推荐。
+
+
+
+#### 5.14. []()
 
 
 
